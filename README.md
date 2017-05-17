@@ -17,9 +17,11 @@ Usage
 2. Create your node contributions in `src`. [Node-red Development Guide](https://nodered.org/docs/creating-nodes/)
 3. `gulp build`
 4. `docker-compose up`
-5. Test your new nodes
+5. Test your nodes
 
 wip
+
+
 
 
 
