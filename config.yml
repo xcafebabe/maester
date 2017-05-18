@@ -7,6 +7,7 @@ paths:
     js:
     - "./src/**/*.js"
     - "!./src/node_modules/**/*.js"
-    html:
+    assets:
     - "./src/**/*.html"
+    - "./src/**/*.json"
 entries: './src/sample/remote-server.js'

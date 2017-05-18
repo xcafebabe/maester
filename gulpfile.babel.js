@@ -77,7 +77,7 @@ gulp.task('bundle', () => {
 })
 
 gulp.task('copy', () => {
-  return gulp.src('./src/**/*.html')
+  return gulp.src(paths.src.assets)
     .pipe(gulp.dest(paths.dist))
 })
 
