@@ -48,7 +48,8 @@
   },
   "node-red": {
     "nodes": {
-      "sample-remote-server": "./lib/sample/remote-server.js"
+      "remote-server": "./lib/sample1/remote-server-config.js",
+      "lower-case": "./lib/sample2/lower-case.js"
     }
   }
 }
