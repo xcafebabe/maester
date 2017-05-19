@@ -14,10 +14,10 @@ wip
 Usage
 -----
 1. Fork or clone this repository.
-2. Create your node contributions in `src`. [Node-red Development Guide](https://nodered.org/docs/creating-nodes/)
-3. `gulp build`
-4. `docker-compose up`
-5. Test your nodes
+2. Add your node contributions in `src` folder following [Node-red Development Guide](https://nodered.org/docs/creating-nodes/)
+3. Build your node red contributions with `gulp build`
+4. Turn on your node-red instance `docker-compose up`
+5. Test your node-contributions
 
 wip
 
